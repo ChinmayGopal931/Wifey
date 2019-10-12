@@ -1,0 +1,9 @@
+<resources>
+]    <string name="app_name">Wifey</string>
+    <string name="wifeysplashimage">SplashImage</string>
+    <string name="SplashText">WIFEY</string>
+    <string name="message_beaming_complete">Beaming complete</string>
+    <string name="hint_your_message">Your message</string>
+    <string name="label_your_message">Outgoing NFC message:</string>
+    <string name="title_btn_set">Set Message</string>
+</resources>
