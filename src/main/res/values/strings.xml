@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wifey</string>
+    <string name="message_beaming_complete">Beaming complete</string>
+</resources>
