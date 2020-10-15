@@ -3,7 +3,7 @@ This an Android app that is used to transfer and save Wifi credentials through N
 
 Wifey allows users to to seamlessly allow other people to connect to the Host's WiFI connection. No more checking behind the router to give your friend the password.
 Wifey also gives the option to save Wifi credentials and allows users to set a time delay before which the secondary device automatically forgets the WiFi credentials.
-The app is curently avaiable worldwide on the Google Play store https://play.google.com/store/apps/details?id=com.wifeyfi.wifey
+The app is curently avaiable worldwide on the Google Play Store https://play.google.com/store/apps/details?id=com.wifeyfi.wifey
 
 Technical Information
 
